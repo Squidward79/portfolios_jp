@@ -26,8 +26,10 @@
  ```
 
 ## 2. Rhythm Goblin
+<div>
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
-
+</div>
 
 -　プレイ映像：https://youtu.be/lzYth33_Kc0
 - タイトル：Rhythm Goblin
