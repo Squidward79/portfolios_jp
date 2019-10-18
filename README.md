@@ -9,3 +9,12 @@
 ## 3. Alone
 - https://youtu.be/DkqqJvE9sP8
  
+## 4. NewSIMS
+- 
+
+## 5. The Fins
+
+
+# 과제 결과물? 스크린샷대체 
+
+## 
