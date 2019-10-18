@@ -8,7 +8,22 @@
 - プラットフォーム：Android
 - 製作期間：２０１７．０６ ～　２０１７．０７
 - 使用ツール：Unity3D/C#
-- 製作人数：1人（プログラマ）
+- 製作人数：2人（プログラマとプランナー）
+
+-プレイ写真
+<div>
+<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
+<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
+ </div> <div>
+<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
+<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
+</div>
+
+
+ - **説明** </br>
+ ```
+ 初めて作ったゲームです。
+ ```
 
 ## 2. Rhythm Goblin
 -　プレイ映像：https://youtu.be/lzYth33_Kc0
