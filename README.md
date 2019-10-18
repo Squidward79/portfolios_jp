@@ -11,7 +11,7 @@
 - 製作人数：1人（プログラマ）
 
 ## 2. Rhythm Goblin
- -プレイ映像：https://youtu.be/lzYth33_Kc0
+-　プレイ映像：https://youtu.be/lzYth33_Kc0
 - タイトル：Rhythm Goblin
 - ジャンル：２Dリズムゲーム
 - プラットフォーム：PC
