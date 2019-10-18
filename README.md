@@ -12,11 +12,11 @@
 
 -プレイ写真
 <div>
-<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
-<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
  </div> <div>
-<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
-<img width="300" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
 </div>
 
 
@@ -26,6 +26,9 @@
  ```
 
 ## 2. Rhythm Goblin
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
+
+
 -　プレイ映像：https://youtu.be/lzYth33_Kc0
 - タイトル：Rhythm Goblin
 - ジャンル：２Dリズムゲーム
