@@ -2,24 +2,21 @@
 今まで制作したゲームとプログラムの説明や動画です。
 
 ## 1. Return to Company
-- タイトル：Return to Company
-- ジャンル：２Dプラットフォマ
-- プラットフォーム：Android
-- 製作期間：２０１７．０６ ～　２０１７．０７
-- 使用ツール：Unity3D/C#
-- 製作人数：2人（プログラマとプランナー）
-
-- プレイ写真
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
  </div> <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
-</div>
+</div>　＜/br>
 
-
- - **説明** </br>
+- **タイトル：** Return to Company
+- **ジャンル：** ２Dプラットフォマ
+- **プラットフォーム：** Android
+- **製作期間：** ２０１７．０６ ～　２０１７．０７
+- **使用ツール：** Unity3D/C#
+- **製作人数：** 2人（プログラマとプランナー）
+- **説明** </br>
  ```
 初めて作ったゲームです。 会社員が事故に遭って奥地に落ちた後、会社に戻るための内容です。
 動物の仮面をかぶると注意を引かなくなります。 これを活用して簡単なパズルを解いて目標地点まで行くゲームです。
@@ -31,7 +28,10 @@ UnityとC#の基本的な技能を学ぶことができました。
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
+</div><div>
+<img width="700" src = "https://user-images.githubusercontent.com/45874696/67137791-b8617180-f275-11e9-890e-8b008cb76b08.png">
 </div>
+
 
 - __プレイ映像__：https://youtu.be/lzYth33_Kc0
 - タイトル：Rhythm Goblin
