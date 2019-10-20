@@ -2,6 +2,7 @@
 今まで制作したゲームの説明や映像です。
 ２０１７の夏から楽しくゲーム作りを続けてしています。
 
+---
 ## 1. Return to Company
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
@@ -25,7 +26,7 @@
   勉強のために公募展に応募しました。結果は良くなかったですが、良い経験になりました。
   UnityとC#の基本的な技能を学ぶことができました。
 
-
+---
 ## 2. Rhythm Goblin
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
@@ -50,7 +51,7 @@
   赤色のスキルゲージを集まってステージが始まる前に選択したスキルを使えます。
   グラフィックのリソースは学校で提供されました。
 
-
+---
 ## 3. Alone
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67147479-2d619500-f2d0-11e9-945e-e7dc3ef6809f.png">
@@ -75,6 +76,7 @@
   Eventシステムの活用やインベントリシステム、セーブ機能を学べるきっかけになりました。
   恐ろしい雰囲気を出すレンダリングはAssetを利用しました。
  
+ ---
 ## 4. NEWSIMS
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67138075-8a7e2c00-f279-11e9-9918-146a11d01ecb.png">
@@ -101,7 +103,7 @@
   初めて3人以上のチームで製作をしましたが、コミュニケーションがうまく行かなくて、1次目標まで完成後チームが解散されてしまいました。
   この経験から開発において作業物の整理とコミュニケーションの重要性に気づくことができました。
  
- 
+ ---
 ## 5. The Fins
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67153602-64af6080-f327-11e9-9c2f-8a8619aa9880.png">
@@ -127,7 +129,7 @@
  ターゲットが消えたら、再び敵ユニットを探索し、敵がいなければ敵の基地を攻撃するために移動します。
  様々なユニットが戦うアルゴリズムを制作したり、ステージレベリングツールを作ったり、２Dを３Dに見えるようにクォータービュー視点を試したりなど、新しい挑戦ができました。
 
-  
+  ---
 ## 6. Turn_in
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67138399-6886a880-f27d-11e9-9fb6-23cb4eaad8bc.png">
