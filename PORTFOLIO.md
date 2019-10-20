@@ -127,7 +127,7 @@
  様々なユニットが戦うアルゴリズムを制作したり、ステージレベリングツールを作ったり、２Dを３Dに見えるように視点を試したりなど、新しい挑戦ができました。
 
   
-  ## 6. Turn_in
+## 6. Turn_in
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67138399-6886a880-f27d-11e9-9fb6-23cb4eaad8bc.png">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67138408-83591d00-f27d-11e9-9a0c-83c6d77b4b72.png">
