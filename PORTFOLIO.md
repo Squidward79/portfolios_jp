@@ -1,4 +1,4 @@
-# LEE HOMIN
+# LEE HOMINの記録
 今まで制作したゲームの説明や映像です。
 
 ## 1. Return to Company
