@@ -1,5 +1,6 @@
-# LEE HOMINの記録
+# LEE HOMINのゲーム制作記録
 今まで制作したゲームの説明や映像です。
+２０１７の夏からゲーム作り活動をしています。
 
 ## 1. Return to Company
 <div>
