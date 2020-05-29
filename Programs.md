@@ -34,7 +34,7 @@
   
 ---
   
-## 4. CUDA Programming
+## 3. CUDA Programming
 <div>
 <img width="280" src = "https://user-images.githubusercontent.com/45874696/67154576-acd77e80-f339-11e9-819b-c423a81bdf43.png">
 <img width="280" src = "https://user-images.githubusercontent.com/45874696/67154577-b6f97d00-f339-11e9-9b15-ce81ffd01baa.png">
